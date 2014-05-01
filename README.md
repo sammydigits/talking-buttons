@@ -10,7 +10,7 @@ To use this on your website, simply drop the stylesheet into your document's `<h
 
 ```html
 <head>
-  <link rel="stylesheet" href="buttons-with-speech-bubbles.min.css">
+  <link rel="stylesheet" href="buttons-with-speech-bubbles.css">
 </head>
 ```
 
