@@ -6,6 +6,7 @@ CSS for buttons (calls to action) which have speech bubbles attached to them, li
 ![example](http://i.imgur.com/JXxdXv2.jpg)
 
 ##Usage
+
 To use this on your website, simply drop the stylesheet into your document's `<head>`:
 
 ```html
@@ -24,5 +25,15 @@ To use this on your website, simply drop the stylesheet into your document's `<h
 ```
 
 Thats it!
+
+## Bug tracker
+
+If you find a bug, please report it [here on Github](https://github.com/samteeeee/buttons-with-speech-bubbles/issues)!
+
+## Developer
+
+Developed by Sam Thompson, [sam-thompson.info](http://sam-thompson.info)
+
+## Credit
 
 Thanks to http://ilikepixels.co.uk/drop/bubbler/
