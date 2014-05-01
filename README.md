@@ -24,3 +24,5 @@ To use this on your website, simply drop the stylesheet into your document's `<h
 ```
 
 Thats it!
+
+Thanks to http://ilikepixels.co.uk/drop/bubbler/
