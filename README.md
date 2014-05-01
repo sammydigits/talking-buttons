@@ -3,7 +3,7 @@ buttons-with-speech-bubbles
 
 CSS for buttons (calls to action) which have speech bubbles attached to them, like so:
 
-![example](http://i.imgur.com/TLhpA9s.gif)
+![example](http://i.imgur.com/JXxdXv2.jpg)
 
 ##Usage
 To use this on your website, simply drop the stylesheet into your document's `<head>`:
