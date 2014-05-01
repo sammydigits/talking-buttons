@@ -1,0 +1,36 @@
+.button-bubble {
+
+}
+.button {
+  position: absolute;
+  top: 56px;
+  padding: 10px;
+  background-color: #f3d078;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;  
+}
+.bubble 
+{
+  position: absolute;
+  left: 35px;
+  padding: 10px;
+  background: #b9b8b8;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.bubble:after 
+{
+  content: '';
+  position: absolute;
+  border-style: solid;
+  border-width: 15px 15px 0;
+  border-color: #b9b8b8 transparent;
+  display: block;
+  width: 0;
+  z-index: 1;
+  bottom: -15px;
+  left: 20px;
+}
