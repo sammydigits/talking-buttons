@@ -1,4 +1,4 @@
-buttons-with-speech-bubbles
+Talking Buttons - Buttons with speech bubbles
 ===========================
 
 CSS for buttons (calls to action) which have speech bubbles attached to them, like so:
